@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+***This page is under construction***
+
 {% include base_path %}
 
 Education
