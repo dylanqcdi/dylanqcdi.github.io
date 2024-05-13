@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Urban Mass Transit: Transit On-Board Survey"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://cdn.vox-cdn.com/thumbor/KlFJoiGBwJBx7wDd2ZVFY3yEgCk=/0x0:4119x2460/1220x813/filters:focal(1731x901:2389x1559):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65327630/MARTA_TRain.0.jpg'>"
 collection: portfolio
 ---
 
@@ -8,9 +8,13 @@ collection: portfolio
 
 We have learned that demographic features in a region could shape transportation features, but how much could these variances in demographic features work? Looking into the transit system’s on-board survey in Detroit, Albuquerque, and Atlanta, there are some interesting findings.
 
+---
+
 ![Figure 1. Age](/images/Slide4.JPG)
 
 When looking at the age distribution, Atlanta jumped out of the other two cities, where the peak appears earlier than the other two. This is exciting because the system is attracting more younger people, especially young professionals. Albuquerque is another story - a straight split happens between people aged 25-34 and 35-44, and the weight of passengers is heavier in higher ages. 
+
+---
 
 ![Figure 2. Household](/images/Slide5.JPG)
 
