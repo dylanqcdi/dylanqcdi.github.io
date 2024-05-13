@@ -1,6 +1,6 @@
 ---
 title: "Urban Mass Transit: Travel with 4 USD in 10 Cities"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://www.casco.com.cn/ImgUpload/202109/20210925184432_8015.jpg'>"
+excerpt: "<br/><img src='https://www.casco.com.cn/ImgUpload/202109/20210925184432_8015.jpg'>"
 collection: portfolio
 ---
 

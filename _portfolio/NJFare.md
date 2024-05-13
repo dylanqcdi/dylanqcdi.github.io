@@ -1,6 +1,6 @@
 ---
 title: "Urban Mass Transit: NJ Transit Fare Inccrease"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://www.progressiverailroading.com/resources/editorial/2019/PR1019-NJTransit.jpg'>"
+excerpt: "<br/><img src='https://www.progressiverailroading.com/resources/editorial/2019/PR1019-NJTransit.jpg'>"
 collection: portfolio
 ---
 

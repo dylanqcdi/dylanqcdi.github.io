@@ -1,6 +1,6 @@
 ---
 title: "Urban Mass Transit: Transit On-Board Survey"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://cdn.vox-cdn.com/thumbor/KlFJoiGBwJBx7wDd2ZVFY3yEgCk=/0x0:4119x2460/1220x813/filters:focal(1731x901:2389x1559):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65327630/MARTA_TRain.0.jpg'>"
+excerpt: "<br/><img src='https://cdn.vox-cdn.com/thumbor/KlFJoiGBwJBx7wDd2ZVFY3yEgCk=/0x0:4119x2460/1220x813/filters:focal(1731x901:2389x1559):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65327630/MARTA_TRain.0.jpg'>"
 collection: portfolio
 ---
 

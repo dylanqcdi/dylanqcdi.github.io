@@ -1,6 +1,6 @@
 ---
 title: "Urban Mass Transit: Bus Stop Design"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://thesource.metro.net/wp-content/uploads/2019/12/thumbnail_DSC_3291.jpg'>"
+excerpt: "<br/><img src='https://thesource.metro.net/wp-content/uploads/2019/12/thumbnail_DSC_3291.jpg'>"
 collection: portfolio
 ---
 
